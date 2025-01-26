@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>233038146715-4qnklj4i7okugh4udo1vjosipe5b61kh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.233038146715-4qnklj4i7okugh4udo1vjosipe5b61kh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>233038146715-v5j6sjfp4d2669emh9b6mf535i36ho38.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAjQEAYL9vZi6_TTucHbKgJUV0A6MoQ9gQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>233038146715</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nexa.app.nexa</string>
+	<key>PROJECT_ID</key>
+	<string>nexa-f8388</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nexa-f8388.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:233038146715:ios:e2ae5cf6d24e8709e66a3e</string>
+</dict>
+</plist>
